@@ -1,4 +1,4 @@
-# Video to Pose3D
+# Line Tracking System
 
 > Predict 3d human pose from video
 
